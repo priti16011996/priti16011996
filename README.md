@@ -32,5 +32,6 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add Your LinkedIn Link
-- Email: Add Your Email
+- LinkedIn: https://www.linkedin.com/in/priti-maurya16/
+- Email: priti16maurya@gmail.com
+-Portfolio: https://pritimaurya.com/
