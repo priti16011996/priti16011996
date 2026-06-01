@@ -18,7 +18,7 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 
 🔹 Solved 84+ DSA & JavaScript Problems
 
-🔹 50+ Days LeetCode Streak
+🔹 50+ Days LeetCode Badge
 
 ---
 
@@ -35,3 +35,4 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 - LinkedIn: https://www.linkedin.com/in/priti-maurya16/
 - Email: priti16maurya@gmail.com
 - Portfolio: https://pritimaurya.com/
+- Leetcode:https://leetcode.com/u/PritiMaurya_Coder/
