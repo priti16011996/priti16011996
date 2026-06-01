@@ -29,24 +29,6 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&layout=compact&theme=tokyonight" />
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priti16011996&theme=onedark&row=1&column=6" />
-</p>
-----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/priti-maurya16/
