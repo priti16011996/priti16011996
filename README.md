@@ -22,16 +22,53 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 
 ---
 
+## 📊 Stack Analysis
+
+| Category            | Technologies                                                    |
+| ------------------- | --------------------------------------------------------------- |
+| Frontend            | React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Chakra UI |
+| Backend             | Node.js, Express.js, PHP                                        |
+| Database            | MongoDB, MySQL                                                  |
+| API Development     | REST APIs, JWT Authentication, Role-Based Access Control (RBAC) |
+| DevOps & Cloud      | Docker, CI/CD, AWS Basics                                       |
+| Version Control     | Git, GitHub                                                     |
+| Architecture        | MVC, Microservices, Scalable Backend Systems                    |
+| Testing & Debugging | Postman, Chrome DevTools                                        |
+| Problem Solving     | Data Structures & Algorithms, JavaScript Challenges, LeetCode   |
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,docker,git,github,vscode" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable MERN Stack applications
+* Advanced Node.js & System Design
+* Docker & AWS Deployment
+* Authentication & Authorization (JWT, RBAC)
+* Microservices Architecture
+
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/priti-maurya16/
-- Email: priti16maurya@gmail.com
-- Portfolio: https://pritimaurya.com/
-- Leetcode:https://leetcode.com/u/PritiMaurya_Coder/
+* LinkedIn: https://www.linkedin.com/in/priti-maurya16/
+* Email: [priti16maurya@gmail.com](mailto:priti16maurya@gmail.com)
+* Portfolio: https://pritimaurya.com/
+* LeetCode: https://leetcode.com/u/PritiMaurya_Coder/
