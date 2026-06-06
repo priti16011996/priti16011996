@@ -41,7 +41,7 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,php,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,redis,php,docker,git,github,vscode" />
 </p>
 
 ---
