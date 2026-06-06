@@ -28,7 +28,7 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 | ------------------- | --------------------------------------------------------------- |
 | Frontend            | React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Chakra UI |
 | Backend             | Node.js, Express.js, PHP                                        |
-| Database            | MongoDB, MySQL                                                  |
+| Database            | MongoDB, MySQL, Redis                                                 |
 | API Development     | REST APIs, JWT Authentication, Role-Based Access Control (RBAC) |
 | DevOps & Cloud      | Docker, CI/CD, AWS Basics                                       |
 | Version Control     | Git, GitHub                                                     |
@@ -41,7 +41,7 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,php,docker,git,github,vscode" />
 </p>
 
 ---
