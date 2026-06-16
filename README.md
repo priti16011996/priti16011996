@@ -53,6 +53,9 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight" />
 </p>
+--
+#Most Used Langugage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&theme=tokyonight&layout=compact)
 
 ---
 ## 📈 GitHub Contribution Graph 
