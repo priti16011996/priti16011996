@@ -20,6 +20,7 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 
 🔹 50+ Days LeetCode Badge
 
+
 ---
 
 ## 📊 Stack Analysis
@@ -44,18 +45,9 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,redis,php,docker,git,github,vscode" />
 </p>
 
----
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight" />
-</p>
----
-## 📈 GitHub Contribution Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priti16011996&theme=tokyo-night)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
   <br/>
