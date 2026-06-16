@@ -56,7 +56,13 @@ Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
 ---
 ## 📈 GitHub Contribution Graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priti16011996&theme=tokyo-night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&theme=tokyonight&layout=compact" />
+</p>
 ## 🎯 Current Focus
 
 * Building scalable MERN Stack applications
