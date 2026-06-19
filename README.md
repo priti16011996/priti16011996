@@ -1,73 +1,126 @@
 <h1 align="center">Hi 👋, I'm Priti Maurya</h1>
 
-<h3 align="center">
-Full Stack Developer | MERN Stack | Node.js | PHP | MySQL
-</h3>
+<h3 align="center">Full Stack Developer · MERN Stack · Node.js · PHP · Cloud</h3>
 
-## 🚀 About Me
-
-💻 Full Stack Developer with 4+ years of experience
-
-🔹 Experienced in MERN Stack, PHP, MySQL
-
-🔹 Building scalable REST APIs and Web Applications
-
-🔹 Hands-on with Docker, CI/CD and Microservices
-
-🔹 MCA Graduate (8.4 CGPA)
-
-🔹 Solved 84+ DSA & JavaScript Problems
-
-🔹 50+ Days LeetCode Badge
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/priti-maurya16/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priti16maurya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://pritimaurya.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/PritiMaurya_Coder/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-## 📊 Stack Analysis
+## 👩‍💻 About Me
 
-| Category            | Technologies                                                    |
-| ------------------- | --------------------------------------------------------------- |
-| Frontend            | React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Chakra UI |
-| Backend             | Node.js, Express.js, PHP                                        |
-| Database            | MongoDB, MySQL, Redis                                                 |
-| API Development     | REST APIs, JWT Authentication, Role-Based Access Control (RBAC) |
-| DevOps & Cloud      | Docker, CI/CD, AWS Basics                                       |
-| Version Control     | Git, GitHub                                                     |
-| Architecture        | MVC, Microservices, Scalable Backend Systems                    |
-| Testing & Debugging | Postman, Chrome DevTools                                        |
-| Problem Solving     | Data Structures & Algorithms, JavaScript Challenges, LeetCode   |
+- 🚀 Full Stack Developer with **4+ years** of progressive experience — promoted from Intern → Associate → Software Developer
+- 🏗️ Built enterprise SaaS platforms, microservice architectures, and scalable REST APIs in production environments
+- ☁️ Hands-on with **AWS** (S3, EC2, Lambda, Elastic Beanstalk, IAM/STS), **Azure Blob Storage**, and **GCP**
+- 🔐 Deep expertise in **JWT authentication, RBAC, multi-tenant access control**, and session management
+- 🐳 Experience with **Docker, CI/CD pipelines, Redis, Nginx**, and PM2 for performance and reliability
+- 🎓 MCA Graduate — Institute of Engineering and Technology, Lucknow (CGPA: 8.2)
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,redis,php,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
 </p>
 
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,redis" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 Stack at a Glance
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Chakra UI, Material UI |
+| **Backend** | Node.js, Express.js, PHP, RESTful APIs |
+| **Auth & Security** | JWT, RBAC, Refresh Tokens, Session Management, bcryptjs, Argon2 |
+| **Databases** | MongoDB, MySQL, Redis |
+| **Cloud** | AWS (S3, EC2, Lambda, Elastic Beanstalk, IAM/STS), Azure Blob Storage, GCP |
+| **DevOps** | Docker, CI/CD Pipelines, Nginx, PM2 |
+| **Architecture** | Microservices, MVC, Multi-tenant SaaS, Event-driven Systems |
+| **Tools** | Git, GitHub, Postman, Zoho, VS Code |
+
+---
+
+## 🏗️ Featured Projects
+
+### [Blogify](https://github.com/priti16011996) — Full Stack Blogging Platform
+`Node.js` `Express.js` `React.js` `MongoDB` `Redis` `Cloudinary` `AWS Elastic Beanstalk`
+- JWT auth with RBAC, protected routes, and authorization middleware
+- Redis caching for high-traffic content — significantly improved response times
+- Deployed on AWS Elastic Beanstalk with production-grade environment configuration
+
+### [HomeStay Listing App](https://github.com/priti16011996) — Accommodation Platform
+`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary` `Geoapify Maps`
+- MVC architecture with location-based search and interactive map views
+- Cloudinary integration for optimized property image delivery
+- Deployed on Render with responsive Bootstrap UI
+
+### [Zerodha Clone](https://github.com/priti16011996) — Stock Trading Platform
+`React.js` `Node.js` `Express.js` `MongoDB`
+- Dashboards for portfolio management, holdings, watchlist, and order tracking
+- Scalable REST APIs for stock data retrieval and order processing
+
+### [Talk-A-Tive](https://github.com/priti16011996) — Real-Time Chat App *(In Development)*
+`MongoDB` `Express.js` `React.js` `Node.js` `Socket.IO` `Chakra UI`
+- One-to-one and group messaging with live presence indicators
+- Typing indicators, read receipts, image sharing, and emoji support
+
+---
+
+## 🏆 Achievements
+
+- 🔼 Promoted **Intern → Associate → Software Developer** within 4 years at Venera Video Tech
+- 🐛 Resolved **100+ production issues** through systematic debugging and root-cause analysis
+- 🏗️ Architected a **multi-tenant SaaS Compliance Detection platform** from scratch with JWT, RBAC, Docker, and CI/CD
+- 👥 Led **end-to-end technical hiring, onboarding, and developer mentorship** — built and upskilled the engineering team
+- 💡 Led PHP/Apache upgrade initiatives that significantly improved application stability and reduced downtime
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priti16011996&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti16011996&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti16011996&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
-## 🎯 Current Focus
-
-* Building scalable MERN Stack applications
-* Advanced Node.js & System Design
-* Docker & AWS Deployment
-* Authentication & Authorization (JWT, RBAC)
-* Microservices Architecture
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Currently Exploring
 
-* LinkedIn: https://www.linkedin.com/in/priti-maurya16/
-* Email: [priti16maurya@gmail.com](mailto:priti16maurya@gmail.com)
-* Portfolio: https://pritimaurya.com/
-* LeetCode: https://leetcode.com/u/PritiMaurya_Coder/
+- Advanced **System Design** and **Distributed Systems**
+- **AWS certifications** and deeper cloud architecture patterns
+- **TypeScript** in large-scale MERN applications
+- Performance optimization and scalability patterns
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priti16011996&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
