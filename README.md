@@ -115,8 +115,8 @@
 ## 🎯 Currently Exploring
 
 - Advanced **System Design** and **Distributed Systems**
-- **AWS certifications** and deeper cloud architecture patterns
-- **TypeScript** in large-scale MERN applications
+- **Learn Python** and deeper
+- **Gen AI and Agentic AI For integration** in large-scale MERN applications
 - Performance optimization and scalability patterns
 
 ---
