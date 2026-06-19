@@ -116,7 +116,7 @@
 
 - Advanced **System Design** and **Distributed Systems**
 - **Learn Python** and deeper
-- **Gen AI and Agentic AI For integration** in large-scale MERN applications
+- **Full stack generative and Agentic AI with python certification in progress for integration ** in large-scale MERN applications
 - Performance optimization and scalability patterns
 
 ---
