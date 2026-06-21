@@ -54,9 +54,9 @@
 | Layer | Technologies |
 |---|---|
 | **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Chakra UI, Material UI |
-| **Backend** | Node.js, Express.js, PHP, RESTful APIs |
+| **Backend** | Node.js, Express.js, PHP, RESTful APIs, Graph QL |
 | **Auth & Security** | JWT, RBAC, Refresh Tokens, Session Management, bcryptjs, Argon2 |
-| **Databases** | MongoDB, MySQL, Redis |
+| **Databases** | MongoDB, MySQL, Redis, PostGrey |
 | **Cloud** | AWS (S3, EC2, Lambda, Elastic Beanstalk, IAM/STS), Azure Blob Storage, GCP |
 | **DevOps** | Docker, CI/CD Pipelines, Nginx, PM2 |
 | **Architecture** | Microservices, MVC, Multi-tenant SaaS, Event-driven Systems |
