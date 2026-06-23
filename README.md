@@ -66,28 +66,28 @@
 
 ## 🏗️ Featured Projects
 
-### [Blogify](https://github.com/priti16011996) — Full Stack Blogging Platform
+### [Blogify](https://github.com/priti16011996/Blogify) — Full Stack Blogging Platform
 `Node.js` `Express.js` `React.js` `MongoDB` `Redis` `Cloudinary` `AWS Elastic Beanstalk`
 - JWT auth with RBAC, protected routes, and authorization middleware
 - Redis caching for high-traffic content — significantly improved response times
 - Deployed on AWS Elastic Beanstalk with production-grade environment configuration
 
-### [HomeStay Listing App](https://github.com/priti16011996) — Accommodation Platform
+### [HomeStay Listing App](https://github.com/priti16011996/HomeStay) — Accommodation Platform
 `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary` `Geoapify Maps`
 - MVC architecture with location-based search and interactive map views
 - Cloudinary integration for optimized property image delivery
 - Deployed on Render with responsive Bootstrap UI
 
-### [Zerodha Clone](https://github.com/priti16011996) — Stock Trading Platform
+### [Zerodha Clone](https://github.com/priti16011996/zerodha-clone) — Stock Trading Platform
 `React.js` `Node.js` `Express.js` `MongoDB`
 - Dashboards for portfolio management, holdings, watchlist, and order tracking
 - Scalable REST APIs for stock data retrieval and order processing
 
-### [Talk-A-Tive](https://github.com/priti16011996) — Real-Time Chat App *(In Development)*
+### [Talk-A-Tive](https://github.com/priti16011996/MERN-Chat-App) — Real-Time Chat App *(In Development)*
 `MongoDB` `Express.js` `React.js` `Node.js` `Socket.IO` `Chakra UI`
 - One-to-one and group messaging with live presence indicators
 - Typing indicators, read receipts, image sharing, and emoji support
-### [SecureAuth API](https://github.com/priti16011996) — Email Service
+### [SecureAuth API](https://github.com/priti16011996/EmailSend) — Email Service
 `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `JWT`
 - Developed a production-ready authentication service with email OTP verification and JWT-based authorization.
 - Implemented secure password and OTP hashing using bcrypt, MongoDB TTL indexes for OTP expiration, and one-active-OTP enforcement.
