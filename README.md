@@ -87,7 +87,14 @@
 `MongoDB` `Express.js` `React.js` `Node.js` `Socket.IO` `Chakra UI`
 - One-to-one and group messaging with live presence indicators
 - Typing indicators, read receipts, image sharing, and emoji support
-
+### [SecureAuth API](https://github.com/priti16011996) — Email Service
+`Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `JWT`
+- Developed a production-ready authentication service with email OTP verification and JWT-based authorization.
+- Implemented secure password and OTP hashing using bcrypt, MongoDB TTL indexes for OTP expiration, and one-active-OTP enforcement.
+- Built account lockout functionality using login attempt tracking and temporary account suspension to prevent brute-force attacks.
+- Integrated Redis and BullMQ for asynchronous email processing with retry mechanisms and exponential backoff.
+- Added OTP resend functionality with cooldown periods and API rate limiting to prevent abuse.
+- Followed Controller-Service-Model architecture and REST API best practices for maintainability and scalability.
 ---
 
 ## 🏆 Achievements
