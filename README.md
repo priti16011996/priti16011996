@@ -103,7 +103,8 @@
 - 🐛 Resolved **100+ production issues** through systematic debugging and root-cause analysis
 - 🏗️ Architected a **multi-tenant SaaS Compliance Detection platform** from scratch with JWT, RBAC, Docker, and CI/CD
 - 👥 Led **end-to-end technical hiring, onboarding, and developer mentorship** — built and upskilled the engineering team
-- 💡 Led PHP/Apache upgrade initiatives that significantly improved application stability and reduced downtime
+- 💡 Led PHP/Apache upgrade initiatives that significantly improved application stability and reduced 
+- 💡100 day badge of leetcode problem solving
 
 ---
 
