@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priti Maurya</h1>
 
-<h3 align="center">Full Stack Developer · MERN Stack · Node.js · PHP · Cloud</h3>
+<h3 align="center">Full Stack Developer| Node.js|Express.js|MongoDB|React|PHP|MySQL|AWS|REST APIs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priti-maurya16/" target="_blank">
