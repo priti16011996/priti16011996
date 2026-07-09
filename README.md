@@ -57,7 +57,7 @@
 | **Backend** | Node.js, Express.js, PHP, RESTful APIs, SOAP APIs |
 | **Auth & Security** | JWT, RBAC, Refresh Tokens, Session Management, bcryptjs, Argon2 |
 | **Databases** | MongoDB, MySQL, Redis, PostGrey |
-| **Cloud** | AWS (S3, EC2, Lambda, Elastic Beanstalk, IAM/STS), Azure Blob Storage, GCP |
+| **Cloud** | AWS (S3, EC2, Lambda, Elastic Beanstalk, IAM/STS), Azure Blob Storage, GCP, Microsoft azure  |
 | **DevOps** | Docker, CI/CD Pipelines, Nginx, PM2 |
 | **Architecture** | Microservices, MVC, Multi-tenant SaaS, Event-driven Systems |
 | **Tools** | Git, GitHub, Postman, Zoho, VS Code |
